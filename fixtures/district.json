@@ -1,0 +1,514 @@
+[
+  {
+    "model": "org.district",
+    "pk": 1,
+    "fields": {
+      "name": "Dhaka ",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 2,
+    "fields": {
+      "name": "Brahmanbaria",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 3,
+    "fields": {
+      "name": "Bagherhat",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 4,
+    "fields": {
+      "name": "Bandarban",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 5,
+    "fields": {
+      "name": "Barguna",
+      "division": 3
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 6,
+    "fields": {
+      "name": "Barishal",
+      "division": 3
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 7,
+    "fields": {
+      "name": "Bhola",
+      "division": 3
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 8,
+    "fields": {
+      "name": "Bogra",
+      "division": 5
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 9,
+    "fields": {
+      "name": "C. Nawabganj",
+      "division": 5
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 10,
+    "fields": {
+      "name": "Chandpur",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 11,
+    "fields": {
+      "name": "Chittagong",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 12,
+    "fields": {
+      "name": "Chuadanga",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 13,
+    "fields": {
+      "name": "Comilla",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 14,
+    "fields": {
+      "name": "Cox's Bazar",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 15,
+    "fields": {
+      "name": "Dinajpur",
+      "division": 6
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 16,
+    "fields": {
+      "name": "Faridpur",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 17,
+    "fields": {
+      "name": "Feni",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 18,
+    "fields": {
+      "name": "Gaibandha",
+      "division": 6
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 19,
+    "fields": {
+      "name": "Gazipur",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 20,
+    "fields": {
+      "name": "Gopalganj",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 21,
+    "fields": {
+      "name": "Habiganj",
+      "division": 4
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 22,
+    "fields": {
+      "name": "Jamalpur",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 23,
+    "fields": {
+      "name": "Jessore",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 24,
+    "fields": {
+      "name": "Jhalokathi",
+      "division": 3
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 25,
+    "fields": {
+      "name": "Jhenaidah",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 26,
+    "fields": {
+      "name": "Joypurhat",
+      "division": 5
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 27,
+    "fields": {
+      "name": "Khagrachari",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 28,
+    "fields": {
+      "name": "Khulna",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 29,
+    "fields": {
+      "name": "Kishoreganj",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 30,
+    "fields": {
+      "name": "Kurigram",
+      "division": 6
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 31,
+    "fields": {
+      "name": "Kushtia",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 32,
+    "fields": {
+      "name": "Lalmonirhat",
+      "division": 6
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 33,
+    "fields": {
+      "name": "Laxmipur",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 34,
+    "fields": {
+      "name": "Madaripur",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 35,
+    "fields": {
+      "name": "Magura",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 36,
+    "fields": {
+      "name": "Manikganj",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 37,
+    "fields": {
+      "name": "Meherpur",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 38,
+    "fields": {
+      "name": "Moulvibazar",
+      "division": 4
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 39,
+    "fields": {
+      "name": "Munshiganj",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 40,
+    "fields": {
+      "name": "Mymensingh",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 41,
+    "fields": {
+      "name": "Naogaon",
+      "division": 5
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 42,
+    "fields": {
+      "name": "Narail",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 43,
+    "fields": {
+      "name": "Narayanganj",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 44,
+    "fields": {
+      "name": "Narshingdi",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 45,
+    "fields": {
+      "name": "Natore",
+      "division": 5
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 46,
+    "fields": {
+      "name": "Netrakona",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 47,
+    "fields": {
+      "name": "Nilphamari",
+      "division": 6
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 48,
+    "fields": {
+      "name": "Noakhali",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 49,
+    "fields": {
+      "name": "Pabna",
+      "division": 5
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 50,
+    "fields": {
+      "name": "Panchagarh",
+      "division": 6
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 51,
+    "fields": {
+      "name": "Patuakhali",
+      "division": 3
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 52,
+    "fields": {
+      "name": "Perojpur",
+      "division": 3
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 53,
+    "fields": {
+      "name": "Rajbari",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 54,
+    "fields": {
+      "name": "Rajshahi",
+      "division": 5
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 55,
+    "fields": {
+      "name": "Rangamati",
+      "division": 2
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 56,
+    "fields": {
+      "name": "Rangpur",
+      "division": 6
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 57,
+    "fields": {
+      "name": "Satkhira",
+      "division": 7
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 58,
+    "fields": {
+      "name": "Serajganj",
+      "division": 5
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 59,
+    "fields": {
+      "name": "Shariatpur",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 60,
+    "fields": {
+      "name": "Sherpur",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 61,
+    "fields": {
+      "name": "Sunamganj",
+      "division": 4
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 62,
+    "fields": {
+      "name": "Sylhet",
+      "division": 4
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 63,
+    "fields": {
+      "name": "Tangail",
+      "division": 1
+    }
+  },
+  {
+    "model": "org.district",
+    "pk": 64,
+    "fields": {
+      "name": "Thakurgaon",
+      "division": 6
+    }
+  }
+]
