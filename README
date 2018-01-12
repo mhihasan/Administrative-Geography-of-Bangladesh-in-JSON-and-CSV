@@ -13,6 +13,6 @@ commmand.
 
 When any change is occured to fixture files, 
 				
-    	python manage.py loaddata /path/to/fixtures/filename.json 
+    	    python manage.py loaddata /path/to/fixtures/filename.json 
 
 command will update database with updateddata.
