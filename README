@@ -1,17 +1,18 @@
-# Administrative-Geography-of-Bangladesh
+                                  Administrative-Geography-of-Bangladesh
 
-	All divisions, districts, subdistricts and unions are included in the csv and json format. 
+	 
+   All divisions, districts, subdistricts and unions are included in the csv and json format. 
 I have also inclued Django Models for division, district, subdistrict and union. 
 
-Initially the .csv file is loaded to database using proper formatting. Then, these data are 
+    Initially the .csv file is loaded to database using proper formatting. Then, these data are 
 dumped to json format using 
 				
-				python manage.py dumpdata --format=json appname.Model > /path/to/store/filename.json
+	    python manage.py dumpdata --format=json appname.Model > /path/to/store/filename.json
 
 commmand.
 
 When any change is occured to fixture files, 
 				
-				python manage.py loaddata /path/to/fixtures/filename.json 
+    	python manage.py loaddata /path/to/fixtures/filename.json 
 
 command will update database with updateddata.
