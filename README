@@ -4,6 +4,7 @@ I have also inclued Django Models for division, district, subdistrict and union.
 
 Initially the .csv file is loaded to database using proper formatting. Then, these data are 
 dumped to json format using following command,
+
 ```python
 python manage.py dumpdata --format=json appname.Model > /path/to/store/filename.json
 ```
